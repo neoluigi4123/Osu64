@@ -32,6 +32,8 @@ Just pick your map and start playing with those buttons:
 | 3 | A |
 | 4 | Right trigger |
 
+You can go back to the beatmap selection by pressing Start. 
+
 # FAQ
 
 > *Why is the audio quality so low?* & *Why is there only 7 beatmaps?*
