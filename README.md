@@ -6,6 +6,11 @@ Demake of Osu!mania 4k for the Nintendo 64. This project isn't affiliated with N
 [![Gameplay Presentation](https://img.youtube.com/vi/9iPliT3w0Cg/0.jpg)](https://www.youtube.com/watch?v=9iPliT3w0Cg)
 ---
 
+# Latest changes
+
+- Scroll Speed can now be adjusted using `Left` or `Right` with the Dpad on the Beatmap selection screen.
+- Added some icons on the same screen to visualise controls.
+
 # Installation
 
 You can just download `osu.z64` and play it from your emulator.
@@ -26,6 +31,8 @@ The game ship with a total of **7 beatmaps**:
 - Pumpin' Junkies
 - Tengu Man
 
+You can tweak the scroll speed using `Left` or `Right` with the Dpad on the Beatmap selection screen.
+
 Just pick your map and start playing with those buttons:
 
 | Lane | Button |
@@ -39,14 +46,11 @@ You can go back to the beatmap selection by pressing Start.
 
 # What's next?
 
-- Scroll speed adjustment (maybe with the d-pad on the beatmap selection)
 - Best Score storing in memory pak
+- More Songs!
 - A way to load more map is welcome
 
 # FAQ
-
-> *Why is the audio quality so low?* & *Why is there only 7 beatmaps?*
-- It allow the game to run smoothly while keeping the memory limitation under 8MB. Originally, there where only 4 Beatmaps to fill up just enough on 4MB, but because the game was empty, I've added 3 more beatmaps while still staying within expension pak limitations. The game is already running at a solid 60fps without frame drop even on heavy beatmaps.
 
 > *Why no beatmap editor?*
 - A beatmap editor could be nice, but it'll require a song to play on. Sadly, there's no intuitive way of importing song unless using complex methods.
