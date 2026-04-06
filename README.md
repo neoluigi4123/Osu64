@@ -8,8 +8,14 @@ Demake of Osu!mania 4k for the Nintendo 64. This project isn't affiliated with N
 
 # Latest changes
 
+- New maps:
+    - Senpai, Notice Me
+    - Sugar Loli
+
 - Scroll Speed can now be adjusted using `Left` or `Right` with the Dpad on the Beatmap selection screen.
 - Added some icons on the same screen to visualise controls.
+- Adjusted map difficulty display
+- Fixed a minor issue with beatmap display
 
 # Installation
 
@@ -30,6 +36,8 @@ The game ship with a total of **7 beatmaps**:
 - Pokkan Color
 - Pumpin' Junkies
 - Tengu Man
+- Senpai, Notice Me
+- Sugar Loli
 
 You can tweak the scroll speed using `Left` or `Right` with the Dpad on the Beatmap selection screen.
 
