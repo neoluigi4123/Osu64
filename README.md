@@ -37,6 +37,12 @@ Just pick your map and start playing with those buttons:
 
 You can go back to the beatmap selection by pressing Start. 
 
+# What's next?
+
+- Scroll speed adjustment (maybe with the d-pad on the beatmap selection)
+- Best Score storing in memory pak
+- A way to load more map is welcome
+
 # FAQ
 
 > *Why is the audio quality so low?* & *Why is there only 7 beatmaps?*
