@@ -56,7 +56,9 @@ You can go back to the beatmap selection by pressing Start.
 
 - Best Score storing in memory pak
 - Mods (hidden, speed, more?)
+- Star shooting
 - More Songs!
+- More background effects? 👀 
 - A way to load more map is welcome
 
 # FAQ
