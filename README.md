@@ -6,16 +6,25 @@ Demake of Osu!mania 4k for the Nintendo 64. This project isn't affiliated with N
 [![Gameplay Presentation](https://img.youtube.com/vi/9iPliT3w0Cg/0.jpg)](https://www.youtube.com/watch?v=9iPliT3w0Cg)
 ---
 
-# Latest changes
+# Latest changes (v1.3)
 
-- New maps:
+- **New maps:**
     - Senpai, Notice Me
     - Sugar Loli
+    - Delta Dan (Hidden)
 
+**Gameplay:**
 - Scroll Speed can now be adjusted using `Left` or `Right` with the Dpad on the Beatmap selection screen.
-- Added some icons on the same screen to visualise controls.
-- Adjusted map difficulty display
-- Fixed a minor issue with beatmap display
+- `Z` opens the mods menu with (in order): auto-play, double speed, hidden.
+
+**Minor changes:**
+- Added some icons on the beatmapSelection screen to visualise controls.
+- Best Score saved in cartridge's memory.
+- Adjusted map difficulty rating.
+- Fixed a minor issue with beatmap display.
+- Enhanced audio quality\*
+
+\* *Audio is compressed for Delta Dan as the song is quite long and take up huge amount of storage.*
 
 # Installation
 
@@ -27,7 +36,7 @@ You can just download `osu.z64` and play it from your emulator.
 
 # How to play
 
-The game ship with a total of **7 beatmaps**:
+The game ship with a total of **10 beatmaps**:
 
 - Doodle
 - Bocchi the Rock Mix
@@ -38,6 +47,7 @@ The game ship with a total of **7 beatmaps**:
 - Tengu Man
 - Senpai, Notice Me
 - Sugar Loli
+- Delta Dan
 
 You can tweak the scroll speed using `Left` or `Right` with the Dpad on the Beatmap selection screen.
 
@@ -53,14 +63,10 @@ Just pick your map and start playing with those buttons:
 You can go back to the beatmap selection by pressing Start. 
 
 # What's next?
-
-- Best Score storing in memory pak
-- Mods (hidden, speed, hardmode, autoplay, more?)
+- More background effects 👀
 - Star shooting
 - More Songs!
-- More background effects? 👀
 - Skin selection?? 
-- A way to load more map is welcome
 
 # FAQ
 
