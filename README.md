@@ -7,6 +7,8 @@ Demake of Osu!mania 4k for the Nintendo 64. This project isn't affiliated with N
 [![Update Presentation](https://img.youtube.com/vi/UstAvXwbtPM/0.jpg)](https://www.youtube.com/watch?v=UstAvXwbtPM)
 ---
 
+(No this project isn't dead, just moving at slow pace lol)
+
 # Latest changes (v1.3)
 
 - **New maps:**
@@ -64,10 +66,12 @@ Just pick your map and start playing with those buttons:
 You can go back to the beatmap selection by pressing Start. 
 
 # What's next?
-- More background effects 👀
-- Star shooting
-- More Songs!
-- Skin selection?? 
+- [x] Star shooting
+- [x] Sync/Delay settings screen
+- [ ] Custom keyboard controller (wip)
+- [ ] Custom gamebox art
+- [ ] Skin selection??
+- [ ] More background effects 👀
 
 # FAQ
 
@@ -82,4 +86,4 @@ You can go back to the beatmap selection by pressing Start.
 
 ---
 
-I'm open to feedback, you can contact me on discord: neo_luigi. :D
+I'm open to feedback, you can contact me on discord: neo_luigi
