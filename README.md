@@ -67,6 +67,9 @@ You can go back to the beatmap selection by pressing Start.
 
 # What's next?
 - [x] Optimized a bit more the game
+- [x] Reduced ROM size under 20MB
+- [X] Enhanced audio quality (even for delta dan)
+- [X] Audio-Jingle on score screen
 - [x] Star shooting
 - [x] Sync/Delay settings screen (press `start` on the title screen)
 - [x] Unlockable content with secret code (`left bumper -> right bumper -> z -> stick up` on the title screen)
