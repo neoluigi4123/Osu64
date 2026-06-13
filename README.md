@@ -66,19 +66,19 @@ Just pick your map and start playing with those buttons:
 You can go back to the beatmap selection by pressing Start. 
 
 # What's next (v1.4)?
-- [x] Optimized a bit more the game
-- [x] Reduced ROM size (undefined yet because content will be added, but under 64MB for sure)
+- [x] Optimized different aspect of the game
+- [x] Reduced ROM size (~50MB)
 - [X] Enhanced audio quality (even for delta dan)
 - [X] Audio-Jingle on score screen
-- [x] Star shooting
+- [x] Star shooting effects
 - [x] Sync/Delay settings screen (press `start` on the title screen)
-- [x] Unlockable content with secret code (`left bumper -> right bumper -> z -> stick up` on the title screen)
-- [x] Possibility to return to title screen from beatmap selection screen
-- [x] Skin selection??
-- [ ] Way more BeatMaps! (work in progress)
-- [ ] Credit screen (work in progress)
+- [x] Unlockable content with secret code (`left bumper -> right bumper -> stick up` on the title screen)
+- [x] Quality of Life improvements
+- [x] Skin selection
+- [x] Way more BeatMaps! (19 in total now)
+- [x] Credit screen
+- [ ] More background effects
 - [ ] Custom keyboard controller (work in progress)
-- [ ] More background effects 👀
 - [ ] Custom gamebox art
 
 # FAQ
