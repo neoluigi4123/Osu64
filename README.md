@@ -74,6 +74,7 @@ You can go back to the beatmap selection by pressing Start.
 - [x] Sync/Delay settings screen (press `start` on the title screen)
 - [x] Unlockable content with secret code (`left bumper -> right bumper -> z -> stick up` on the title screen)
 - [x] Possibility to return to title screen from beatmap selection screen
+- [ ] Credit screen
 - [ ] Skin selection??
 - [ ] More background effects 👀
 - [ ] Way more BeatMaps!
