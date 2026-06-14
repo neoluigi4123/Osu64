@@ -7,7 +7,7 @@ Demake of Osu!mania 4k for the Nintendo 64. This project isn't affiliated with N
 [![Update Presentation](https://img.youtube.com/vi/UstAvXwbtPM/0.jpg)](https://www.youtube.com/watch?v=UstAvXwbtPM)
 ---
 
-(No this project isn't dead, just moving at slow pace lol)
+# Soon releasing the NEW UPDATE!
 
 # Latest changes (v1.3)
 
