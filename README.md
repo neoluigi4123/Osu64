@@ -67,7 +67,7 @@ You can go back to the beatmap selection by pressing Start.
 
 # What's next (v1.4)?
 - [x] Optimized different aspect of the game
-- [x] Reduced ROM size (~50MB)
+- [x] Reduced ROM size (~20MB)
 - [X] Enhanced audio quality (even for delta dan)
 - [X] Audio-Jingle on score screen
 - [x] Star shooting effects
