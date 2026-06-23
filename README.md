@@ -35,8 +35,7 @@ Osu64 is designed to be played with a standard Nintendo 64 controller. The 4K ga
 *   **Analog Stick / D-Pad:** Navigate menus
 *   **A-Button:** Select / Confirm / Calibrate
 *   **B-Button:** Go back / Return to Title Screen
-*   **Start-Button:** View Credits (from Title Screen)
-*   **Z-Button:** Access Settings / Offset Sync (from Title Screen)
+*   **Start-Button:** Access Settings (title screen)
 *   **L + R + Analog Stick Up:** Secret code (Title Screen)
 
 ---
