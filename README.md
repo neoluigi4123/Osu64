@@ -1,5 +1,6 @@
 # Osu64
 Demake of Osu!mania 4k for the Nintendo 64. This project isn't affiliated with Nintendo or Ppy.
+<img width="630" height="500" alt="osu64boxcover" src="https://github.com/user-attachments/assets/a94d1527-4f1f-44b2-a8b7-7b5f359e8f8d" />
 
 ---
 
