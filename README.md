@@ -4,10 +4,6 @@ Demake of Osu!mania 4k for the Nintendo 64. This project isn't affiliated with N
 
 ---
 
-[![Gameplay Presentation](https://img.youtube.com/vi/9iPliT3w0Cg/0.jpg)](https://www.youtube.com/watch?v=9iPliT3w0Cg)
-[![Update Presentation](https://img.youtube.com/vi/UstAvXwbtPM/0.jpg)](https://www.youtube.com/watch?v=UstAvXwbtPM)
----
-
 Osu64 is a native 4K rhythm game demake of *osu!mania*, developed for the Nintendo 64 console. This project is built using the open-source **Libdragon** SDK and compiles into a standard `.z64` ROM compatible with both emulator and real hardware.
 
 ---
